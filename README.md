@@ -1,6 +1,15 @@
 # Python-QuickTable
 A Python API which creates tables quickly and easily
 
+Example Output:
+```
+ ID | Name  | Email           |
+ 1  | Test  | Test@test.com   |
+ 2  | Test2 | Test@test.net   |
+ 3  | Test3 | Test@test.org   |
+ 4  | Test4 | Test@tester.com |
+```
+
 # Usage
 Importing:
 `from table import Table`
